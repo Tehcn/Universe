@@ -1,0 +1,3 @@
+language = "cpp"
+run = "clang Universe.cpp"
+entrypoint = "Universe.cpp"
